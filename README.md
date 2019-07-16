@@ -1,5 +1,5 @@
 # re-store
-Educational application on ReactJS with Redux.
+Application for learning ReactJS and Redux.
 
 To start the application:
 
